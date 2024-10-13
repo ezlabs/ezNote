@@ -1,0 +1,39 @@
+# Python bytecode
+__pycache__/
+*.py[cod]
+
+# Virtual environments
+venv/
+eznote_env/
+.env
+
+# PyQt5 build artifacts
+*.qrc
+*.qm
+
+# IDE-specific files
+.vscode/
+.idea/
+
+# Operating system files
+.DS_Store
+Thumbs.db
+
+# Compiled Python files
+*.pyc
+
+# Logs
+*.log
+
+# Distribution / packaging
+dist/
+build/
+*.egg-info/
+
+# Temporary files
+*.bak
+*.swp
+*~
+
+# Project-specific files (add any other files/folders specific to your project)
+# example: config.ini
