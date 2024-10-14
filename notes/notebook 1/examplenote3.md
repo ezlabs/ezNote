@@ -1,1 +1,1 @@
-Notebook: notebook 1.1.1
+Notebook: notebook 1.1
